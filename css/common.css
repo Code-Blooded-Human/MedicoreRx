@@ -1,0 +1,13 @@
+.btn,
+.btn-flat {
+	border-radius: 4px;
+}
+.material-icons {
+	color: rgba(0, 0, 0, 0.54);
+}
+nav .material-icons {
+	color: white;
+}
+.collection {
+	border-radius: 10px;
+}

@@ -1,0 +1,15 @@
+.price {
+	font-weight: bold;
+	font-size: large;
+}
+.price-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;
+	height: 70%;
+}
+.quantity-input {
+	width: 4rem !important;
+	text-align: center;
+}
